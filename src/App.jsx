@@ -3,6 +3,8 @@ import './Style.scss'
 
 
 function App() {
+  
+    
   return (
     <div className='app'>
          <Board/>    
